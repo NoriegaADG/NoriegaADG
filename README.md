@@ -1,26 +1,47 @@
 # 👋 Hi, I'm Dionisio German Noriega Alvarez
-Full Stack Developer | Systems Engineer
+## Systems Engineer | Backend Developer | IT Infrastructure Specialist
 
-🚀 Currently building:
-
-Inventory Management System
-(NestJS + PostgreSQL + Flutter Mobile App)
-
-🧠 Tech Stack:
-
-Backend:
-Node.js
-NestJS
-TypeScript
-PostgreSQL
-Prisma ORM
-
-Mobile:
-Flutter (iOS & Android)
-
-DevOps:
-Docker
+### 📫 Contact
+- LinkedIn: www.linkedin.com/in/dionisio-german-noriega-alvarez-30b54b187
 
 📍 Mexico
 
-Building scalable backend systems and cross-platform business software focused on performance, reliability, and clean architecture.
+Experienced Systems Engineer with over 6 years of experience in technical support, IT infrastructure, hardware diagnostics, electronic failure analysis, and software development.
+
+### 🧠 Tech Stack
+#### Backend
+- Java
+- Node.js
+- NestJS
+- TypeScript
+- PostgreSQL
+- MySQL
+
+#### Tools
+- Git
+- GitHub
+- Linux
+- Docker
+- Jira
+
+#### Additional Experience
+- Enterprise Server Integration
+- Hardware Troubleshooting
+- Root Cause Analysis
+- Technical Support
+- Incident Management
+- Log Analysis
+
+### 🚀 Currently Learning
+- NestJS
+- TypeScript
+- PostgreSQL
+- Docker
+- Software Architecture
+
+### 🎯 Professional Interests
+- Backend Development
+- Software Engineering
+- IT Infrastructure
+- Process Improvement
+- Failure Analysis
