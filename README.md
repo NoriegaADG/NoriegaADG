@@ -129,7 +129,3 @@ Planned capabilities:
 - Technical Documentation
 - Software Development
 - Quality and Validation Processes
-
-
-LinkedIn:
-www.linkedin.com/in/dionisio-german-noriega-alvarez-30b54b187
