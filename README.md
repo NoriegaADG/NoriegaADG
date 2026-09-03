@@ -1,131 +1,187 @@
 # 👋 Hi, I'm Dionisio German Noriega Alvarez
 
-## Systems Engineer | Test Engineer | Backend Developer | IT Infrastructure Specialist
+### Systems Engineer | Java Full Stack Developer | Application Support | IT Infrastructure
 
-📍 Mexico  
-📫 LinkedIn: www.linkedin.com/in/dionisio-german-noriega-alvarez-30b54b187
+📍 Mexico
+💼 8+ years of experience in IT infrastructure, technical support, software development, hardware diagnostics, testing, and failure analysis.
+
+[LinkedIn](https://www.linkedin.com/in/dionisio-german-noriega-alvarez-30b54b187) · [GitHub](https://github.com/NoriegaADG) · [Portfolio](https://dgna-dev-portfolio.vercel.app/)
+
+---
 
 ## 👨‍💻 About Me
-Systems Engineer with 6+ years of experience in IT infrastructure, hardware diagnostics, technical support, software development, and failure analysis.
 
-Experienced in enterprise environments with focus on:
-- Hardware and software troubleshooting
-- Server integration and validation processes
-- Root Cause Analysis (RCA)
-- Log analysis and error investigation
-- Functional testing and technical documentation
-- Backend development and REST API design
-- Incident management and continuous improvement
+Systems Engineer with 8+ years of experience across **software development, IT infrastructure, technical support, enterprise hardware, testing, and failure analysis**.
 
-Currently focused on developing automation tools for testing processes, data analysis, and engineering solutions.
+My professional background combines **Java Backend/Full Stack Development with IT Infrastructure and Application Support**, allowing me to work across both software and enterprise technology environments.
 
-# 🧰 Technical Skills
+My main areas of experience include:
 
-## Programming Languages
-- Java
-- Python
-- TypeScript
-- JavaScript
-- SQL
+* Java Backend and Full Stack Development
+* REST API development and integration
+* Application Support and incident management
+* Hardware and software troubleshooting
+* Enterprise server integration and validation
+* Functional testing and failure reproduction
+* Root Cause Analysis (RCA)
+* Log analysis and error investigation
+* Technical documentation
+* Automation and process improvement
 
-## Backend Development
-- Java
-- Spring Framework
-- REST APIs
-- Node.js
-- NestJS
-- TypeScript
-- JPA / Hibernate
+Currently focused on improving my skills in **Backend Development, Python Automation, Software Architecture, Cloud, DevOps, and Test Engineering**.
 
-## Test Engineering & Validation
-- Manual Hardware Testing
-- Manual Software Testing
-- Functional Testing
-- Server Validation
-- Failure Reproduction
-- Root Cause Analysis
-- Troubleshooting
-- Log Analysis
-- Test Documentation
-- Quality Validation Processes
+---
 
-## Hardware & Infrastructure
-- Enterprise Servers
-- Hardware Diagnostics
-- Component Validation
-- Linux
-- Windows
-- Networking Fundamentals
-- System Configuration
+## 🧰 Technical Skills
 
-## Databases
-- PostgreSQL
-- MySQL
-- Oracle
-- SQL Server
+### 💻 Programming & Backend
 
-## Tools
-- Git
-- GitHub
-- GitLab
-- Docker
-- Jira Service Management
-- Microsoft 365
-- Linux CLI Tools
+* Java
+* Python
+* TypeScript
+* JavaScript
+* SQL
+* Spring Framework
+* REST APIs
+* Node.js
+* NestJS
+* JPA / Hibernate
 
-# 🚀 Featured Projects
+### 🧪 Testing & Validation
 
-## 🔍 Server Log Analyzer
-Python automation tool focused on analyzing server validation logs.
+* Functional Testing
+* Hardware Testing
+* Software Testing
+* Server Validation
+* Failure Reproduction
+* Root Cause Analysis
+* Troubleshooting
+* Log Analysis
+* Test Documentation
+* Quality Validation
 
-The objective is to automate failure detection, classify errors, and generate technical reports to support testing and troubleshooting processes.
+### 🖥️ Infrastructure & Systems
 
-Main Features:
-- Log file processing
-- Error and warning detection
-- Failure classification
-- Test result summary generation
-- Automated technical reports
+* Enterprise Servers
+* Hardware Diagnostics
+* Component Validation
+* Linux
+* Windows
+* Networking Fundamentals
+* System Configuration
 
-Technologies:
-- Python
-- Regular Expressions
-- Pandas
-- Excel Automation
+### 🗄️ Databases
 
-## ⚙️ Server Validation Suite
+* PostgreSQL
+* MySQL
+* Oracle
+* SQL Server
+
+### 🛠️ Tools & Technologies
+
+* Git
+* GitHub
+* GitLab
+* Docker
+* Jira Service Management
+* Microsoft 365
+* Linux CLI Tools
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 Server Log Analyzer
+
+Python-based automation tool for analyzing server validation logs and identifying potential failures.
+
+**Focus:**
+
+* Log file processing
+* Error and warning detection
+* Failure classification
+* Test result analysis
+* Automated technical reports
+
+**Technologies:** Python · Regular Expressions · Pandas · Excel Automation
+
+---
+
+### ⚙️ Server Validation Suite
+
 Engineering tools focused on hardware validation, testing processes, and manufacturing data analysis.
 
-Planned capabilities:
-- Test result management
-- Hardware validation tracking
-- Failure history
-- Automated reports
-- Performance metrics
+**Planned capabilities:**
 
-# 📚 Currently Improving
-- Python Automation
-- Linux System Analysis
-- Test Engineering Practices
-- Hardware Validation Processes
-- Software Architecture
-- Data Analysis
+* Test result management
+* Hardware validation tracking
+* Failure history
+* Automated reports
+* Performance metrics
 
-# 🎯 Professional Interests
-- Test Engineering
-- Test Automation
-- Hardware Validation
-- Backend Engineering
-- Manufacturing Systems
-- Data Driven Engineering
-- Root Cause Analysis
-- Process Improvement
+---
 
-# 💼 Professional Experience Areas
-- Enterprise Server Integration
-- Hardware Troubleshooting
-- Software Support
-- Incident Management
-- Technical Documentation
-- Software Development
-- Quality and Validation Processes
+## 🌐 Portfolio
+
+My personal portfolio showcases my professional experience, technical skills, education, training, and software development projects.
+
+👉 **[Visit my portfolio](https://dgna-dev-portfolio.vercel.app/)**
+
+---
+
+## 📚 Currently Improving
+
+* Java & Spring Boot
+* Python Automation
+* Software Architecture
+* REST API Development
+* PostgreSQL
+* Docker & DevOps
+* Cloud Technologies
+* Test Engineering
+* Data Analysis
+
+---
+
+## 🎯 Professional Interests
+
+* Java Full Stack Development
+* Backend Engineering
+* Application Support
+* Test Engineering
+* Test Automation
+* IT Infrastructure
+* Hardware Validation
+* Manufacturing Systems
+* Data-Driven Engineering
+* Root Cause Analysis
+* Process Improvement
+
+---
+
+## 💼 Professional Experience
+
+Experience across:
+
+* Java Software Development
+* Backend & API Development
+* Application Support
+* Enterprise Server Integration
+* Hardware Troubleshooting
+* IT Infrastructure
+* Testing & Validation
+* Incident Management
+* Technical Documentation
+* Process Improvement
+
+---
+
+## 📫 Connect With Me
+
+* 💻 GitHub: [NoriegaADG](https://github.com/NoriegaADG)
+* 💼 LinkedIn: [Dionisio German Noriega Alvarez](https://www.linkedin.com/in/dionisio-german-noriega-alvarez-30b54b187)
+* 📧 Email: [NoriegaADG@outlook.com](mailto:NoriegaADG@outlook.com)
+
+---
+
+⭐ Thanks for visiting my profile!
